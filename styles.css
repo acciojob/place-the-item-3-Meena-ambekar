@@ -4,6 +4,7 @@
 	display:flex;
 	background-color:blue;
 	justify-content:space-between;
+	flex-wrap:wrap;
 }
 .item{
 	width:100px;
